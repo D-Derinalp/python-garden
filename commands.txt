@@ -1,0 +1,2 @@
+docker build -t python-garden .
+docker run python-garden
